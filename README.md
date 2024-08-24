@@ -7,8 +7,6 @@
 📖 Avid reader (mostly novels & short stories).</br>
 ✉️ Email: rpad263@gmail.com</br></br>
 
-</br>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rutuja2635) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RutujaPadar) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest)](https://pinterest.com/rutuja2635) 
 </br>
@@ -18,7 +16,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rutujapadar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rutujapadar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rutujapadar&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapadar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
