@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rutuja2635) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuja-padar-073b26252/) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest)](https://pinterest.com/rutuja2635) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuja-padar-073b26252/) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest)](https://pinterest.com/rutuja2635) 
 </br></br>
 ## 💻 Tech Stack:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapadar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
