@@ -21,11 +21,6 @@
 ## Postman student expert
 [![Postman Student Expert](https://img.shields.io/badge/Postman%20Student%20Expert-orange?logo=postman)](https://badgr.com/public/assertions/r9X4p6zBQR2-v0aici9NJg)
 
-
-## 🙌🏻Projects:
-<img width="33%" height="20%" src="https://github.com/user-attachments/assets/d4dce068-6dc4-4cf2-b20e-93db85b76f93"/>
-<img width="33%" height="20%" src="https://github.com/user-attachments/assets/70caa10f-f883-42e5-b135-4d2381058b21"/>
-
 </br></br>
 ## 📊 GitHub Stats:
 
