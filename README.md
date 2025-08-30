@@ -1,6 +1,6 @@
 ## Hi, I'm Rutuja!
 <img align="right" width="22%" height="10%" src="https://media.tenor.com/QtNJWLGD5KwAAAAM/work-working.gif"/>
-📚 B.E. at PICT </br>
+📚 Pursuing B.E. at PICT </br>
 📱 Interested in Web and Android Application development</br>
 🎨 Love to paint and crochet.</br>
 📖 Avid reader (mostly novels & short stories).</br>
